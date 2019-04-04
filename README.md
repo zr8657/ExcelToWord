@@ -1,3 +1,3 @@
-# You can convert tables in Excel into tables in Word
+You can convert tables in Excel into tables in Word
 
-# The format must be ".xlsx"
+The format must be ".xlsx"
